@@ -17,3 +17,6 @@ public class MoveForward : MonoBehaviour
         transform.Translate(Vector3.forward*Time.deltaTime*speed);
     }
 }
+
+
+
